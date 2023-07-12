@@ -1,0 +1,5 @@
+# path: '/content/drive/MyDrive/wildlife_detection_project/data'
+train: /content/drive/MyDrive/wildlife_detection_project/data/train/images
+val: /content/drive/MyDrive/wildlife_detection_project/data/test/images
+nc: 6
+names: ["Antilop", "buffalo", "elephant", "kangaroo", "rhino", "zebra"]
